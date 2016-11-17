@@ -1,0 +1,22 @@
+{
+  "name": "try-jenkins-with-node",
+  "version": "1.0.0",
+  "description": "To learn deploy node on jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelbenetti/try-jenkins-with-node.git"
+  },
+  "author": "Rafael de Oliveira Benetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelbenetti/try-jenkins-with-node/issues"
+  },
+  "homepage": "https://github.com/rafaelbenetti/try-jenkins-with-node#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
